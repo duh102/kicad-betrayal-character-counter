@@ -29,8 +29,8 @@ L Device:Battery_Cell BT1
 U 1 1 5F1A3519
 P 5500 1650
 F 0 "BT1" H 5618 1746 50  0000 L CNN
-F 1 "3xAAA" H 5618 1655 50  0000 L CNN
-F 2 "Battery:BatteryHolder_Keystone_2479_3xAAA" V 5500 1710 50  0001 C CNN
+F 1 "1xAAA" H 5618 1655 50  0000 L CNN
+F 2 "Battery:BatteryHolder_Keystone_2466_1xAAA" V 5500 1710 50  0001 C CNN
 F 3 "~" V 5500 1710 50  0001 C CNN
 	1    5500 1650
 	1    0    0    -1  
